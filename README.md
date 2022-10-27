@@ -5,14 +5,11 @@ How to use:
 
 -Write on the 3 first lines:
 
-  0
+    0
   
-  *Your Custom Username*
+    *Your Custom Username*
   
-  *Your Custom Password*
-
-
-
+    *Your Custom Password*
 
 -Open notel3x.exe
 
