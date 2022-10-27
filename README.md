@@ -4,8 +4,11 @@ How to use:
 -Create a .txt file wherever you want
 
 -Write on the 3 first lines:
+
   0
+  
   *Your Custom Username*
+  
   *Your Custom Password*
 
 -Open notel3x.exe
