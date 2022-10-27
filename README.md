@@ -1,8 +1,6 @@
-# Your-Own-Custom-and-Safe-Notes
----------------------------------------------------------------                                             
-By C0MPL3X#3733
----------------------------------------------------------------
+# Your-Own-Custom-and-Safe-Notes                                           
 How to use:
+--------------------------------------------------------------- 
 -Create a .txt file wherever you want
 
 -Write on the 3 first lines:
