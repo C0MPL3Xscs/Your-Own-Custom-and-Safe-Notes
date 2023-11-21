@@ -25,3 +25,5 @@ How to use:
 
 ---------------------------------------------------------------
 To keep your information private make the .txt file "Hidden" on file propriaties.
+
+Found this helpful? You can support me by [Buying me a coffe ☕ ](https://www.buymeacoffee.com/samukasamp)
