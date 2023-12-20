@@ -1,4 +1,4 @@
-# Your-Own-Custom-and-Safe-Notes                                           
+# Your-Own-Custom-and-Local-Safe-Notes                                           
 How to use:
 --------------------------------------------------------------- 
 -Create a .txt file wherever you want
